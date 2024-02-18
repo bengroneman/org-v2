@@ -1,0 +1,2 @@
+## Software designer and automation enthusiast
+Hello there 👋. I am an mission driven engineer with a drive to solve user experience challenges with data-driven and intuitive solutions. I bring diverse experience in web development, automation, consulting, and have a soft spot for Python.
