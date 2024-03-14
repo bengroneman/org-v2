@@ -14,8 +14,6 @@ title: UI Automation Best Practices
 
 ## Background
 
-Our end-to-end test suite lives in [this](https://bitbucket.org/languageio/ui-automation/src/development/) repository; the codebase is written in Python and leverages the [Playwright](https://playwright.dev/python/) framework to interact with webdrivers, while we are using [Pytest](https://docs.pytest.org/en/7.4.x/) for a test runner. The test cases are growing steadily, but you can get a birds eye view from [this](https://languageio.atlassian.net/jira/dashboards/10140) dashboard.
-
 Below is an outline of best practices to follow when creating or updating any UI test in our suites.
 
 ## **Use accessible selectors**
