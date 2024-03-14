@@ -11,3 +11,10 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Ben Groneman"
+image = "./avatar.jpg"
+headline = "Mission driven engineer, excited about learning"
+#bio = "Hello there 👋. I focus on building up my community through technology, and finding simple solutions that stick. I am currently working as a DevOps engineer with Language I/O. I'm also working towards a Bachelors degree in Data Analytics with WGU."
+links = [
+    { github = "https://github.com/bengroneman" },
+    { envelope = "mailto:ben.groneman@hey.com" }
+]

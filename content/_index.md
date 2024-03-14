@@ -1,2 +1,1 @@
-## Software designer and automation enthusiast
-Hello there 👋. I am an mission driven engineer with a drive to solve user experience challenges with data-driven and intuitive solutions. I bring diverse experience in web development, automation, consulting, and have a soft spot for Python.
+Hello there 👋. I focus on building up my community through technology, and finding simple solutions that stick. I am currently working as a DevOps engineer with Language I/O. I'm also working towards a Bachelors degree in Data Analytics with WGU.
