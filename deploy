@@ -1,0 +1,5 @@
+#!/bin/sh
+hugo
+rsync -aAXv ./public /var/www/html/blue.groneman.org/public --delete
+
+exit 0
