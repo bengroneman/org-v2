@@ -7,4 +7,4 @@ I am working with Language I/O as a DevOps Engineer to expand and maintain infra
 
 Language I/O is a Cheyenne WY based company focused delivering the most accurate real time translation service for business. They have an *amazing* culture, and incredible senior management (not endorsed), [come join us](https://languageio.com/careers) and find out for yourself!
 
-I'm not currently looking for work, but if you want to reach out to connect, I'd love to hear from you!
+I'm not currently looking for work, but if you want to reach out to connect, I'd love to hear from you (email me at [blue@groneman.org](mailto:blue@groneman.org).
