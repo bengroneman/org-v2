@@ -2,6 +2,7 @@
 categories:
   - Automation
 date: "2023-04-09"
+draft: true
 description: "A remote friendly leadership excercise for the whole team"
 slug: practical-class-on-leadership-styles
 tags:
